@@ -4,7 +4,7 @@
 void helloprint() {
     printf("Hello World from function 1!\n");
 
-    swdelay(0x6fffffff);
+    swdelay(0x6ffffff);
 
     while (1) {
         char c = getchar();

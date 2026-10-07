@@ -6,7 +6,7 @@ int main() {
     
     printf("Hello World from main!\n");
 
-    swdelay(0x5ffffff);
+    swdelay(0x5fffff);
 
     helloprint();
     
